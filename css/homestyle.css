@@ -1,0 +1,17 @@
+.flex-container
+{
+    display:flex;
+    flex-direction:row;
+    background-color:pink;
+}
+.flex-container > div{
+
+    flex-direction:row;
+    background-color:blue;
+    width:300px;
+    margin:10px;
+    text-align:centre;
+    line-height:60;
+    font-size:30px;
+    
+}

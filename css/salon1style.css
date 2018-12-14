@@ -1,0 +1,15 @@
+p{
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    
+}
+body{
+    margin:auto;
+    background-color: palevioletred;
+}
+div{
+font-style: oblique;
+}a{
+    text-decoration: none;
+}
